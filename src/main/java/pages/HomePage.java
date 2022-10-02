@@ -45,6 +45,7 @@ public class HomePage {
 	public void logInBtnClick() throws InterruptedException {
 		Thread.sleep(3000);
 		logInBtn.click();
+		Thread.sleep(3000);
 	}
 
 }
