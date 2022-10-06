@@ -14,7 +14,7 @@ public class HomePage {
 
 	}
 
-	@FindBy(xpath = "//body[@class='lang-en '] ")
+	@FindBy(xpath = "//body[@class='lang-en ']")
 	WebElement logo;
 
 	@FindBy(xpath = "//span[@class='_gkt786u']")
